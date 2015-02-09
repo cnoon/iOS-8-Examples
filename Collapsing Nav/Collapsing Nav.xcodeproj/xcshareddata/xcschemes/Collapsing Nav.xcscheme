@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4CE360E21A882E1C0047EA29"
-               BuildableName = "Collapsing Nav &amp; Tab Bars.app"
-               BlueprintName = "Collapsing Nav &amp; Tab Bars"
-               ReferencedContainer = "container:Collapsing Nav &amp; Tab Bars.xcodeproj">
+               BuildableName = "Collapsing Nav.app"
+               BlueprintName = "Collapsing Nav"
+               ReferencedContainer = "container:Collapsing Nav.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "4CE360F71A882E1C0047EA29"
                BuildableName = "Collapsing Nav &amp; Tab BarsTests.xctest"
                BlueprintName = "Collapsing Nav &amp; Tab BarsTests"
-               ReferencedContainer = "container:Collapsing Nav &amp; Tab Bars.xcodeproj">
+               ReferencedContainer = "container:Collapsing Nav.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "4CE360F71A882E1C0047EA29"
                BuildableName = "Collapsing Nav &amp; Tab BarsTests.xctest"
                BlueprintName = "Collapsing Nav &amp; Tab BarsTests"
-               ReferencedContainer = "container:Collapsing Nav &amp; Tab Bars.xcodeproj">
+               ReferencedContainer = "container:Collapsing Nav.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4CE360E21A882E1C0047EA29"
-            BuildableName = "Collapsing Nav &amp; Tab Bars.app"
-            BlueprintName = "Collapsing Nav &amp; Tab Bars"
-            ReferencedContainer = "container:Collapsing Nav &amp; Tab Bars.xcodeproj">
+            BuildableName = "Collapsing Nav.app"
+            BlueprintName = "Collapsing Nav"
+            ReferencedContainer = "container:Collapsing Nav.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4CE360E21A882E1C0047EA29"
-            BuildableName = "Collapsing Nav &amp; Tab Bars.app"
-            BlueprintName = "Collapsing Nav &amp; Tab Bars"
-            ReferencedContainer = "container:Collapsing Nav &amp; Tab Bars.xcodeproj">
+            BuildableName = "Collapsing Nav.app"
+            BlueprintName = "Collapsing Nav"
+            ReferencedContainer = "container:Collapsing Nav.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4CE360E21A882E1C0047EA29"
-            BuildableName = "Collapsing Nav &amp; Tab Bars.app"
-            BlueprintName = "Collapsing Nav &amp; Tab Bars"
-            ReferencedContainer = "container:Collapsing Nav &amp; Tab Bars.xcodeproj">
+            BuildableName = "Collapsing Nav.app"
+            BlueprintName = "Collapsing Nav"
+            ReferencedContainer = "container:Collapsing Nav.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
